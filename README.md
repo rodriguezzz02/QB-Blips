@@ -152,7 +152,7 @@ Si usas un sistema de permisos diferente, modifica el isAdmin() en server.lua.
 ## 📝 Créditos
 
 Creado para la comunidad de QBCore ES/Latam.
-Autor: TuNombre.
+Autor: Rodriguez22/FaXke.
 
 
 ---

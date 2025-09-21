@@ -144,14 +144,9 @@ Si usas un sistema de permisos diferente, modifica el isAdmin() en server.lua.
 
 ## 🧩 Dependencias
 
-qb-core
-
-ox_lib
-
-oxmysql
-
-
-
+- **[qb-core](https://github.com/qbcore-framework/qb-core)**  
+- **[ox_lib](https://github.com/overextended/ox_lib)**  
+- **[oxmysql](https://github.com/overextended/oxmysql)**
 ---
 
 ## 📝 Créditos

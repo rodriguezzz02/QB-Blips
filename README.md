@@ -1,6 +1,6 @@
 ---
 
-##📌 QB Blip Manager
+## 📌 QB Blip Manager
 
 Gestor de blips para servidores QBCore 2025 con soporte a ox_lib y oxmysql.
 Permite a los administradores crear, editar y eliminar blips dinámicamente desde un menú en el juego, con persistencia en base de datos.
@@ -8,7 +8,7 @@ Permite a los administradores crear, editar y eliminar blips dinámicamente desd
 
 ---
 
-##🚀 Características
+## 🚀 Características
 
 Comando /createblips (solo administradores).
 
@@ -68,7 +68,7 @@ Cambios en blips (crear/editar/eliminar) actualizan la DB y a todos los jugadore
 ---
 ```
 
-##📂 Archivos del recurso
+## 📂 Archivos del recurso
 
 qb-blipmanager/
  ├── fxmanifest.lua   → Manifest del recurso
@@ -79,7 +79,7 @@ qb-blipmanager/
 ```
 ---
 
-##🛠️ Instalación
+## 🛠️ Instalación
 
 1. Copia la carpeta qb-blipmanager en tu directorio resources/[standalone].
 
@@ -124,7 +124,7 @@ ensure qb-blipmanager
 
 ---
 
-##⚡ Uso
+## ⚡ Uso
 
 Ejecuta el comando /createblips en el juego (solo admins).
 
@@ -136,7 +136,7 @@ Los cambios se aplican en tiempo real y se guardan en la base de datos.
 
 ---
 
-##📜 Permisos
+## 📜 Permisos
 
 El comando /createblips solo está disponible para usuarios con el grupo admin en QBCore.
 Si usas un sistema de permisos diferente, modifica el isAdmin() en server.lua.
@@ -144,7 +144,7 @@ Si usas un sistema de permisos diferente, modifica el isAdmin() en server.lua.
 
 ---
 
-##🧩 Dependencias
+## 🧩 Dependencias
 
 qb-core
 
@@ -156,7 +156,7 @@ oxmysql
 
 ---
 
-##📝 Créditos
+## 📝 Créditos
 
 Creado para la comunidad de QBCore ES/Latam.
 Autor: TuNombre.

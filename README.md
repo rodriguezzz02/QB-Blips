@@ -104,11 +104,9 @@ CREATE TABLE IF NOT EXISTS blips (
 ```
 3. Asegúrate de tener instalados:
 
-oxmysql
-
-ox_lib
-
-QBCore actualizado (2025).
+- **[qb-core](https://github.com/qbcore-framework/qb-core)**  
+- **[ox_lib](https://github.com/overextended/ox_lib)**  
+- **[oxmysql](https://github.com/overextended/oxmysql)**  
 
 
 
